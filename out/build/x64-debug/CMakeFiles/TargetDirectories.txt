@@ -1,3 +1,0 @@
-C:/Users/mango/Desktop/简历/2025.11.2/Item/RectorItem/out/build/x64-debug/CMakeFiles/RectorItem.dir
-C:/Users/mango/Desktop/简历/2025.11.2/Item/RectorItem/out/build/x64-debug/CMakeFiles/edit_cache.dir
-C:/Users/mango/Desktop/简历/2025.11.2/Item/RectorItem/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
